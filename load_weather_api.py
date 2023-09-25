@@ -9,3 +9,5 @@ import pandas as pd
 #patients_df.head()
 
 waa.weather_call()
+
+print("hello")
